@@ -1,0 +1,39 @@
+.a{
+    background-color: blue;
+}
+.b{
+    color: brown;
+}
+.c{
+    font-weight: 200;
+}
+.d{
+    font-weight: 500;
+    color: white;
+}
+.main{
+    display: flex;
+    background: url('img/stone_block.png');
+}
+
+.logo img{
+    background-color: white;
+}
+
+.second{
+    display: flex;
+    position: absolute;
+    right: 0px;
+}
+
+.zemly , .sunduk{
+    display: flex;
+}
+
+.zemly p{
+    margin-top: 20%;
+}
+
+.sunduk p{
+    margin-top: 15%;
+}

@@ -1,0 +1,76 @@
+.lank .ru{
+    margin-right: 10px;
+}
+
+.links ul{
+    display: flex;
+    margin-top: 50px;
+   
+}
+.links ul li{
+    list-style-type: none;
+    margin-right: 35px;
+    color: white
+}
+.links ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.home{
+    background: url('img/road-g9875459d1_1920\ 1\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pp1{
+    color: white;
+    margin-top: 217px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 150%;
+    /* or 72px */
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+}
+.batona button{
+    color: white;
+    background-color: red;
+    border-radius: 0%;
+    border: none;
+    margin-top: 64px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #FFFFFF;
+padding: 20px;
+border-radius: 10px;
+border: none;
+}
+.col-4 img{
+    margin-top: 50px;
+
+}
+.img img{
+    margin-top: 22px;
+}
+.lank{
+    color: white;
+    display: flex;
+    margin-top: 45px;
+}
+.lank .EN{
+    margin-left: 5px;
+
+}

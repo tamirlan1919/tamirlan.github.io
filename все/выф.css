@@ -1,0 +1,183 @@
+.main{
+    
+    background: url('https://i.pinimg.com/originals/f6/c2/7d/f6c27dc0a58e4a357c2568a1461e8031.png');
+    height: 100vh;
+}
+
+.main-top{
+    display: flex;
+}
+
+.main-bottom img{
+    
+    position: relative;
+    left: 35%;
+}
+.main-bottom{
+    background-color: black;
+}
+
+
+.logo img{
+    background-color: white;
+}
+
+.second{
+    display: flex;
+    position: absolute;
+    right: 0px;
+}
+
+.zemly , .sunduk{
+    display: flex;
+}
+
+.zemly p{
+    margin-top: 20%;
+}
+
+.sunduk p{
+    margin-top: 15%;
+}
+.long{
+    background-color: black;
+}
+.long a{
+   
+    text-decoration: none;
+    color: white;
+    
+
+}
+.link{
+   text-align: right;
+}
+.lng{
+    max-width: 30%;
+    position: absolute;
+    top: 25%;
+    right: 30%;
+    color: white;
+    font-size: 20px;
+}
+.l{
+    color: white;
+    max-width: 30%;
+    position: absolute;
+    top: 50%;
+    right: 60%;
+}
+.o{
+    color: white;
+    max-width: 30%;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+.g{
+    color: white;
+    max-width: 30%;
+    position: absolute;
+    top: 50%;
+    right: 40%;
+}
+.x{
+    display: flex;
+}
+.ob{
+    display: flex;
+    height: 1000px;
+}
+.black{
+    background-color: black;
+    color: white;
+    height: 100px;
+    margin-bottom: 100px;
+    padding-right: 10px;
+    padding-top: 50px;
+}
+.gr{
+    background-color: green;
+    color: white;
+    height: 50px;
+    margin-left: 300px;
+    margin-bottom: 300px;
+    padding-right: 50px;
+    padding-top: 99px;
+}
+.purple{
+    background-color: purple;
+    color: white;
+    height: 100px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    padding-right:99;
+    padding-top: 10px;
+}
+.ad{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.l{
+    margin-top: 100px;
+}
+.aaa{
+    display: flex;
+}
+.llll{
+    display: block;
+}
+.forma{
+    margin: 0 auto;
+   
+}
+
+.forma form{
+    
+}
+.forma button{
+    background-color: orange;
+    border-radius: 10%;
+    border: none;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.forma input{
+    display: block;
+    float: right;
+    width: 80%;
+    text-align: center;
+    padding: 3px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    transition: all 1s;
+}
+.forma label{
+    display: block;
+    text-align: left;
+    transition: all 1s;
+}
+
+.forma input:hover{
+    background-color: rgb(195, 204, 211);
+    cursor: pointer;
+}
+
+.forma label:hover{
+    color: brown;
+}
+.forma label{
+    color: orange;
+    background-color: black;
+    box-shadow: 0 0 20px ;
+}
+.rgb{
+    width: 300px;
+    background-color: aqua;
+    color: red;
+    margin: 20px;
+}

@@ -1,0 +1,16 @@
+.plp{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.new{
+    background-color: yellow;
+}
+.new h1{
+    text-align: center;
+}
+.lll{
+    text-align: right;
+    font-weight: 999;
+}

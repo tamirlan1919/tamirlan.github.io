@@ -1,0 +1,30 @@
+.img img{
+
+    background: url('https://poster.nicefon.ru/2018_03/27/1080x610/2353819114111113011111.jpg')
+}
+.lnl h1{
+    color: red;
+}
+
+.vse{
+    background: url('https://poster.nicefon.ru/2018_03/27/1080x610/2353819114111113011111.jpg');
+    display: flex;
+}
+.b button{
+    background-color: orange;
+    border-radius: 20%;
+    border: none;
+    color: white;
+    padding: 5px;
+}
+.lnl{
+    border: 2px solid black;
+}
+.img button{
+    background: none;
+    border: none;
+    color: white;
+    font-size: 30px;
+    
+    align-self: center;
+}
